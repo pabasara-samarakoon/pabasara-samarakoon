@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pabasara-samarakoon
-- 👀 I’m interested in full-stack web developing
+- 👀 I’m interested in Data Science and full-stack web developing
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
